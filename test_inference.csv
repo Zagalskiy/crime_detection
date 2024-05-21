@@ -1,0 +1,2 @@
+model_name,images_num,mF1_score50,mAP50,mAP50-95,average_fps
+yolov9_d7_e300,200,0.8274,0.8705,0.6029,30.6301

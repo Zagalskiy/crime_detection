@@ -1,0 +1,4 @@
+model_name,video_name,average_fps,predictions_total,predictions0,predictions1,predictions2,average_conf_total,average_conf0,average_conf1,average_conf2
+yolov9_d7_e300,gettyimages-86383292-640_adpp.mp4,36.9457,246,0.9919,0.0000,0.0081,0.5646,0.6453,0.0000,0.4840
+yolov9_d7_e300,gettyimages-99345302-640_adpp.mp4,36.6715,127,0.3543,0.5197,0.1260,0.4483,0.4154,0.4776,0.4520
+yolov9_d7_e300,gettyimages-159818553-640_adpp.mp4,36.4754,231,0.3766,0.0043,0.6190,0.5064,0.5262,0.3296,0.6633
