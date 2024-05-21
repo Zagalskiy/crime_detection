@@ -1,4 +1,4 @@
-<img src="https://github.com/Zagalskiy/crime_detection/blob/master/plots.png" width="400" height="233" alt="Результаты обучения и валидации модели">
+<img src="https://github.com/Zagalskiy/crime_detection/blob/master/plots.png" width="600" height="350" alt="Результаты обучения и валидации модели">
 
 Материалы выпускной квалификационной работы на тему:
 
