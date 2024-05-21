@@ -1,5 +1,3 @@
-<img src="https://github.com/Zagalskiy/crime_detection/blob/master/plots.png" width="600" height="350" alt="Результаты обучения и валидации модели">
-
 Материалы выпускной квалификационной работы на тему:
 
 # "Автоматическое распознавание правонарушений в реальном времени на записях охранных камер видеонаблюдения на основе алгоритмов глубокого обучения"
@@ -35,3 +33,7 @@ https://drive.google.com/file/d/1jH5W1rDXrR012F1dOiesSiLkoGQ0iDJh/view?usp=shari
 Ррзработанный набор данных:
 
 https://universe.roboflow.com/sunfire-marik-alar9/crime-cctv-object-detection/dataset/7
+
+<img src="https://github.com/Zagalskiy/crime_detection/blob/master/plots.png" width="600" height="350" alt="Результаты обучения и валидации модели">
+
+<img src="https://github.com/Zagalskiy/crime_detection/blob/master/gettyimages-86383292-640_adpp.mp4.png" width="600" height="272" alt="Результаты тестирования модели на независимых данных">
