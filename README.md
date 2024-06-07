@@ -11,6 +11,8 @@
 Репозиторий проекта состоит из следующих файлов:
 - [Readme.md](https://github.com/Zagalskiy/crime_detection/blob/master/README.md) - файл описания репозитория
 - [VKR_code.ipynb](https://github.com/Zagalskiy/crime_detection/blob/master/VKR_code.ipynb) - блокнот с процессом обучения и тестирования модели компьютерного зрения
+- [VKR_predict.ipynb](https://github.com/Zagalskiy/crime_detection/blob/master/VKR_predict.ipynb) - блокнот для тестирования независимых данных
+- [VKR_predict.py](https://github.com/Zagalskiy/crime_detection/blob/master/VKR_predict.py) - скрипт для тестирования независимых данных
 - [class.names](https://github.com/Zagalskiy/crime_detection/blob/master/class.names) - файл с классами для скрипта расчёта метрик
 - [gettyimages-159818553-640_adpp.mp4](https://github.com/Zagalskiy/crime_detection/blob/master/gettyimages-159818553-640_adpp.mp4) - видеофайл класса robbery
 - [gettyimages-159818553-640_adpp.mp4.png](https://github.com/Zagalskiy/crime_detection/blob/master/gettyimages-159818553-640_adpp.mp4.png) - результаты эксперимента с видеофайлом класса robbery
